@@ -3,6 +3,9 @@
 ## Overview
 Design files for a sensor housing compatible with the Holybro X500 Drone Kit.
 
+![IMG_1254](https://github.com/SHARK-Alert-System/sensor-payload-housing/assets/20687631/7ad8ca89-4d9a-459f-abe0-674c19cf3acb)
+
+
 ## Files
 - `Survey3_Camera_Models.stl`: 3D model for Survey3 camera housing.
 - `Survey3_Camera_Models.stp`: STEP file for camera model modification.
