@@ -1,7 +1,7 @@
 # Holybro X500 Drone Kit Sensor Housing
 
 ## Overview
-Design files for a sensor housing compatible with the Holybro X500 Drone Kit.
+Design files for a sensor housing compatible with the Holybro X500 Drone Kit. Houses an expandable IR temperature board, Survey3 camera, and USB wide angle camera. 
 
 ![IMG_1254](https://github.com/SHARK-Alert-System/sensor-payload-housing/assets/20687631/7ad8ca89-4d9a-459f-abe0-674c19cf3acb)
 
